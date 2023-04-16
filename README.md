@@ -1,2 +1,2 @@
 # Magento-module-development
-Custom Module/Theme Development for the scratch. 
+Custom Module/Theme Development form the scratch. 
